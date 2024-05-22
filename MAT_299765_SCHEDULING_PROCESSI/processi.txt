@@ -1,0 +1,10 @@
+20
+word,50,2
+excel,40,5
+mysqld,30,2
+explorer,20,4
+chrome,70,10
+devcpp,50,6
+node,10,6
+notepad,10,5
+skype,100,1
